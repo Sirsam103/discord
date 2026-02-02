@@ -2,7 +2,7 @@
 @import url('https://fonts.cdnfonts.com/css/gg-sans-2');
 
 .theme-dark {
-  --dplus-backdrop: url('./dcbg.png');
+  --dplus-backdrop: url('https://github.com/Sirsam103/discord/blob/main/dcbg.png?raw=true');
   /* Image or color for the backdrop. Defaults to accent color on error. */
   
   --dplus-accent-color-hue: 320;
